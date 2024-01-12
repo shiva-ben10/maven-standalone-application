@@ -4,7 +4,7 @@
 
 	<groupId>com.mt</groupId>
 	<artifactId>maven-standalone-application</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>maven-standalone-application</name>
@@ -43,6 +43,7 @@
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://3.90.142.95:8081/repository/shiva-release/</url>
+		
 	    </repository>
 	    
 	    <snapshotRepository>
